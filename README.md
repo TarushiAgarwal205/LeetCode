@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 ## Matrix
 |  |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
