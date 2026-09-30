@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Matrix
 |  |
 | ------- |
