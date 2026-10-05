@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
