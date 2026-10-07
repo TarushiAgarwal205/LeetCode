@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
