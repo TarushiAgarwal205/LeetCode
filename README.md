@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0055-jump-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
