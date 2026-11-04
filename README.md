@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
