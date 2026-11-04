@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
+| [0904-fruit-into-baskets](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0001-two-sum) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
+| [0904-fruit-into-baskets](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
