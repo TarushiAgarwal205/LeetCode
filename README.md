@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Interactive
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
