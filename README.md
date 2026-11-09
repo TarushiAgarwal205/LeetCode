@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0062-unique-paths) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Combinatorics
@@ -181,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
