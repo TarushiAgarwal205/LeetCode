@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 ## String
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 ## Greedy
 |  |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
