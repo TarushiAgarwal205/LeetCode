@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0169-majority-element) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0169-majority-element) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 ## Greedy
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Quicksort
 |  |
@@ -201,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0042-trapping-rain-water) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
