@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
