@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0344-reverse-string) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0344-reverse-string) |
