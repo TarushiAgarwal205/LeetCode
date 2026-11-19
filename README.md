@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Binary Search
 |  |
@@ -255,12 +257,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
