@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Binary Search
 |  |
@@ -249,4 +251,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
