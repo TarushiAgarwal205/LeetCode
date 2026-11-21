@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0410-split-array-largest-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0344-reverse-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
