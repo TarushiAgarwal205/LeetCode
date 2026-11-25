@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Binary Search
 |  |
@@ -269,17 +271,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Trie
 |  |
 | ------- |
