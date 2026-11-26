@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/TarushiAgarwal205/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TarushiAgarwal205/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/TarushiAgarwal205/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
